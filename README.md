@@ -4,4 +4,4 @@
 
 These are my assignments in Python, PowerBI, and Tableau. Index numbers indicate the week assignments were handed out.
 
-The 6-month course is organized by the Data Science and Artificial Intelligence Division (DSAID), Government Technology Agency (GovTech).
+The 6-month course is delivered by the Data Science and Artificial Intelligence Division (DSAID), Government Technology Agency (GovTech).
